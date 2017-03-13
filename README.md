@@ -17,6 +17,6 @@ Dimensions | 159.4 x 81.5 x 8.85mm
 Camera  | 13M wide OIS / 2.1M FULL HD
 
 
-![SKY VEGA SCRECT NOTE](https://www.pantech.co.kr/cmm/fms/getImage.do?atchFileId=FILE_000000000005945&fileSn=0 "SKY VEGA SCRECT NOTE")
+![SKY VEGA SCRECT NOTE](http://file.ivega.co.kr/upload/product/imv/1382667460698_2ryezt.jpg "SKY VEGA SCRECT NOTE")
 
-Kernel source code: https://github.com/hoalamha/android_kernel_pantech_msm8x74
+Kernel source code: https://github.com/chautruongthinh/android_kernel_pantech_msm8x74
